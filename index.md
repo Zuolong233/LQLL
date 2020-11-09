@@ -8,17 +8,13 @@
 
 ```markdown
 
-<b>
     <p>主力</p>
-</b>
 qz(QuanQin Wu)
 DGQ
 xf
 sakula
 QKAkofk
-<b>
-    <p>替补</p>
-</b>
+   <p>替补</p>
 LOVEYY
 Ayeon
 Karsaj
