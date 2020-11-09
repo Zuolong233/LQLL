@@ -4,14 +4,21 @@ You can use the [editor on GitHub](https://github.com/Zuolong233/Let-s-Quit/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 战队成员简介
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+老Boy CS BEST CS
 
 ```markdown
-QZ(QuanQin Wu)
+主力
+qz(QuanQin Wu)
 DGQ
-
+xf
+sakula
+QKAkofk
+替补
+LOVEYY
+Ayeon
+Karsaj
 
 - Bulleted
 - List
