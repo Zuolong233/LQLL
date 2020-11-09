@@ -17,6 +17,7 @@ QKAkofk
 LOVEYY
 Ayeon
 Karsaj
+```
 
 更多队员详情[HLTV--LQ](https://www.hltv.org/team/10414/lets-quit).
 
