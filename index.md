@@ -2,7 +2,7 @@
 
 找不到简介Blyat 不写了
 
-![LQ-LOGO](https://imgchr.com/i/BHC1C8)
+![LQ-LOGO](https://s1.ax1x.com/2020/11/09/BHCI2D.png)
 
 ### 战队成员简介
 
