@@ -2,6 +2,8 @@
 
 找不到简介Blyat 不写了
 
+![LQ-LOGO](https://imgchr.com/i/BHC1C8)
+
 ### 战队成员简介
 
 老Boy CS BEST CS
