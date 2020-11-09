@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Let's Quit
 
 You can use the [editor on GitHub](https://github.com/Zuolong233/Let-s-Quit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
