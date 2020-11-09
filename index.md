@@ -7,13 +7,13 @@
 老Boy CS BEST CS
 
 ```markdown
-**主力
+## 主力
 qz(QuanQin Wu)
 DGQ
 xf
 sakula
 QKAkofk
-**替补
+## 替补
 LOVEYY
 Ayeon
 Karsaj
